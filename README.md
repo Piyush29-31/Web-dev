@@ -1,2 +1,2 @@
-# Web-dev
-Learning web dev html,css,js
+# Web-dev Journey
+Learning the web development course
