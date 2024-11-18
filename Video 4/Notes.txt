@@ -1,0 +1,4 @@
+Shortcut
+
+
+Alt + Shift + Down arrow key = Line where the cursor lies will get copy and pasted in the next line 

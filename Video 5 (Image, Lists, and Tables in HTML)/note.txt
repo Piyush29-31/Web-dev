@@ -1,0 +1,43 @@
+Tables
+In HTML tables are filled row by row and in a single row we can add columns individually 
+These operations are done for each row we a re working on 
+like This
+ 
+<table>
+        <tr>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Fav language</th>
+        </tr>
+        
+        <tr>
+            <td>Piyush</td>
+            <td>Programmer</td>
+            <td>Java Script</td>
+        </tr>
+
+        tr>td*3 
+        will give 
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    </table>
+
+
+th --> Means table heading I mean headingif the column
+td --> Refers to table data
+
+-----------------------------------------------------------------------------------------------------------------
+
+Now rowspan and colspan
+<td colspan="2"> Sam </td>
+Ab sam 2 column ki jagah lega
+
+and for row span wo bhi individual table data me daalte hai
+
+-----------------------------------------------------------------------------------------------------------------
+
+
