@@ -1,2 +1,2 @@
 # Web-dev Journey
-Learning the web development course
+Learning the web development course from Code with Harry
