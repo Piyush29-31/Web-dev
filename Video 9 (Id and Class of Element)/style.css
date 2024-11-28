@@ -1,0 +1,10 @@
+/* CSS mai class komn call krne ke liye hum ".nameofclass" se bulate hai */
+/* And id ko call krne ke liye "#idofelement" */
+
+.red{
+    background-color: yellow;
+}
+
+#seconddiv{
+    background-color: green;
+}
